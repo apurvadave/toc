@@ -1,4 +1,6 @@
 # CNCF Technical Oversight Committee (TOC)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Ftoc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Ftoc?ref=badge_shield)
+
 
 The CNCF TOC is the technical governing body of the CNCF Foundation. It admits and oversees all projects in the CNCF Foundation and has a mandate to facilitate driving neutral consensus for:
 * defining and maintaining the technical vision for the Cloud Native Computing Foundation,
@@ -174,3 +176,7 @@ If you're interested in presenting at a TOC call about your project, please open
 * [December 5th, 2017](https://goo.gl/77pMFY)
 * [December 7th, 2017](https://goo.gl/Ugo7F9)
 * [January 16th, 2018](https://goo.gl/5wBe3d)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Ftoc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Ftoc?ref=badge_large)
